@@ -13,11 +13,24 @@
 ##Hobbys
 
 * Dormir, vous avez dit dormir ?
-  * Dans un lit.
-  * Dans un divant.
-  * Pendant un film.
-  * Dehors dans l'herbe.
-  * Dans le bar.
+  * Dans un lit
+  * Dans un divan
+  * Devant un film
+  * Dehors dans l'herbe
+  * Dans un bar
+* Lire
+  * Des livres : fantasy, science-fiction, aléatoire
+  * Des mangas, des BD's, des Webtoons
+  * Des articles, de la documentation
+  * Des pages wikipédia
+  * Le derrière de la boite de Kellogs
+* Écrire
+  * Au gré des inspiriations
+* Jeu-vidéo
+* Natation
+* Musique
+* Boire
+
 
 
 
