@@ -26,7 +26,11 @@
   * Le derrière de la boite de Kellogs
 * Écrire
   * Au gré des inspiriations
-* Jeu-vidéo
+* Jeux vidéo
+  * Teso
+  * Halo
+  * WoW
+  * Jeu solo
 * Natation
 * Musique
 * Boire
