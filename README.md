@@ -39,7 +39,7 @@ Ceci est une anecdote drôle.
 
 En bref, il s'agit d'une anecdote drôle.
 
-
+[center]<< [précédent]() || MEHDI || [suivant]() >>[/center]
 
 
 
