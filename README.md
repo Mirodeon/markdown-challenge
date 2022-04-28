@@ -39,7 +39,7 @@ Ceci est une anecdote drôle.
 
 En bref, il s'agit d'une anecdote drôle.
 
-<< [précédent]() || MEHDI || [suivant]() >>
+<< [précédent](https://github.com/henrihals/markdown-challenge/blob/main/README.md) || Mehdi Habaru || [suivant](https://github.com/LydiaHaway/markdown-challenge) >>
 
 
 
