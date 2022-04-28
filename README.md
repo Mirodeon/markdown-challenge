@@ -35,6 +35,10 @@
 * Musique
 * Boire
 
+## Tu peux toujours compter sur moi...
+
+Pour perdre du temps à réfléchir sur un truc bizarre et perdre du temps dessus à le retourner sur tous les angles !
+
 ## Anecdote drôle
 
 Ceci est une anecdote drôle.
