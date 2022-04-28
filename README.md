@@ -2,7 +2,7 @@
 
 *Pourquoi le poulet a-t-il traversé la route?*
 
-![alt text](photo_profil.jpg "photo de profil")
+<img src=photo_profil.jpg  alt="photo de profil" style="width:60px;" />
 
 ## "Moi, en une phrase.🙃"
 
