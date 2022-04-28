@@ -12,12 +12,12 @@
 
 ##Hobbys
 
-* Dormir, vous avez dit dormi ?
-··* Dans un lit.
-··* Dans un divant.
-··* Pendant un film.
-··* Dehors dans l'herbe.
-··* Dans le bar.
+* Dormir, vous avez dit dormir ?
+  * Dans un lit.
+  * Dans un divant.
+  * Pendant un film.
+  * Dehors dans l'herbe.
+  * Dans le bar.
 
 
 
